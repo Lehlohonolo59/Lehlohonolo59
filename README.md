@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lehlohonolo
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning software development
+- 👀 I’m interested in software development, database administration, Azure Power BI, Azure data engineering, Azure administration, and IT project management.
+- 🌱I have completed my studies in software development and continue to grow my skills in data and cloud technologies.
 - 📫 How to reach me hlonisethibe59@gmail.com
 
 <!---
